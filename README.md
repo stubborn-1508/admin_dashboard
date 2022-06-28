@@ -4,7 +4,9 @@
 ## Introduction
 This is a code repository for the one for all dashboard,which can be stacked in different webapps along with some few tweakings and bring a new dashboard for your wonderful website.Feel free to fork and use it as your wish...cheers👍👍
 
-Technologies used:
+Technologies used:<a href="https://reactjs.org/" target="_blank"> 
+    <img src="https://img.shields.io/badge/reactjs-61DAFB.svg?style=for-the-badge&logo=react&logoColor=black"
+      alt="react"/>
 
 # Getting Started with Create React App
 
